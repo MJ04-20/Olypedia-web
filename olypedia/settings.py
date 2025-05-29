@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-w-tyhe3x(*nvpp88_ifknije)r(u3zjwr6cpgj28&z!t*p^0@x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://olypedia.onrender.com']
 
 
 # Application definition
